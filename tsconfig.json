@@ -21,6 +21,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts","components/ui/dialog.jsx", "components/pro-modal.tsx", "components/subscription-button.tsx"],
   "exclude": ["node_modules"]
 }
