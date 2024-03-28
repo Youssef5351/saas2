@@ -21,6 +21,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts","components/ui/dialog.jsx", "components/pro-modal.tsx", "components/subscription-button.tsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts","components/ui/dialog.jsx", "components/pro-modal.tsx", "components/subscription-button.tsx", "app/api/paymob/route.ts", "lib/paymob.js", "components/modal-provider.js", "app/(dashboard)/(routes)/settings/page.jsx"],
   "exclude": ["node_modules"]
 }

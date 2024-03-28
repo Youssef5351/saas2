@@ -58,7 +58,7 @@ const MusicPage = () => {
       <Heading
         title="Music Generation"
         description="Turn your prompt into music."
-        icon={Music}
+        Xicon={Music}
         iconColor="text-emerald-500"
         bgColor="bg-emerald-500/10"
       />

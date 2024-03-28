@@ -49,7 +49,7 @@ const routes = [
     href: '/code',
   },
   {
-    label: 'Settings',
+    label: 'Site Policies',
     icon: Settings,
     href: '/settings',
   },
